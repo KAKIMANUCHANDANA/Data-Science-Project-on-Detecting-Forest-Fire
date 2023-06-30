@@ -1,0 +1,1 @@
+# Data-Science-Project-on-Detecting-Forest-Fire
